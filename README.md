@@ -25,7 +25,8 @@ Builds the app for production to the `build` folder. It correctly bundles React 
 
 The build is minified and the filenames include the hashes. Your app is ready to be deployed!
 
-## react-scripts
+##npm install --save react-scripts@5.0.1
+use this command when it shows to react-scripts not found or asked to install scripts. install the react-scripts of the above version to run the code. i have used version @4.0.1
 
 
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/88225022/182921198-e59f53f5-5f1b-46d2-adde-69cafef6b441.png">
