@@ -29,4 +29,3 @@ use this command when it shows to react-scripts not found or asked to install sc
 
 
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/88225022/182921198-e59f53f5-5f1b-46d2-adde-69cafef6b441.png">
-t6r
