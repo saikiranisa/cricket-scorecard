@@ -31,3 +31,7 @@ Builds the app for production to the `build` folder. It correctly bundles React 
 The build is minified and the filenames include the hashes. Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/88225022/182921198-e59f53f5-5f1b-46d2-adde-69cafef6b441.png">
+t6r
