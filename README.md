@@ -1,10 +1,6 @@
 ## What is this?
 
-A gully cricket score board used to maintain the score of the team and individual players with runs, balls & strike rate including bowler's total over, maiden, runs given, economy, etc. This project was build using React JS and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Recommendation
-
-This application is best viewed in Mobile/Phone browser.
+cricket scorecard webapp is used to maintain the score of the team and individual players with runs, balls & strike rate including bowler's total over, maiden, runs given, economy, etc.
 
 ## Problem
 
