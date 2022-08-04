@@ -5,10 +5,6 @@ cricket scorecard webapp is used to maintain the score of the team and individua
 
 Currently data has been managed using state. Hence don't refresh the page until the completion of match otherwise all data will be gone. For that you can use android application which you can **download** from the **Release Section**.
 
-## Is this live?
-
-Yes, this application is live and deployed in Netlify. You can check here [gully-cricket-score-board](https://gully-cricket.netlify.app/).
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -29,7 +25,7 @@ Builds the app for production to the `build` folder. It correctly bundles React 
 
 The build is minified and the filenames include the hashes. Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## react-scripts
 
 
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/88225022/182921198-e59f53f5-5f1b-46d2-adde-69cafef6b441.png">
