@@ -1,5 +1,4 @@
-## What is this?
-
+##About
 cricket scorecard webapp is used to maintain the score of the team and individual players with runs, balls & strike rate including bowler's total over, maiden, runs given, economy, etc.
 
 ## Problem
