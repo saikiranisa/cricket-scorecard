@@ -24,8 +24,7 @@ Launches the test runner in the interactive watch mode. See the section about [r
 Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes. Your app is ready to be deployed!
-
-##npm install --save react-scripts@5.0.1
+## npm install --save react-scripts@5.0.1
 use this command when it shows to react-scripts not found or asked to install scripts. install the react-scripts of the above version to run the code. i have used version @4.0.1
 
 
